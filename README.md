@@ -8,8 +8,8 @@
   
   but currently Im using C# and Java   
 
-<h3> Im new here thats why i will slowly fill the void() </h3>
+Im new here thats why i will slowly fill the void() </h3>
 
-check out my newes project!
+## check out my newes project!
 https://github.com/Fabio-Calo/DataMatcher  
-it's a Java-library to help to match two different Objects using Fields with String values
+it's a Java-library to help matching two different Objects using Fields with String values
