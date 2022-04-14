@@ -1,14 +1,11 @@
-<h2> 👋 Hi, I’m @Fabio-Calo </h2>
+# 👋 Hi, I’m @Fabio-Calo
 
 - 🧠 I’m interested in 🧑‍💻coding, 🎸music and 🍩3d designing
 
 - 📚 I’m currently learning Spring 
 
-- 📖 Languages I used in the past are  Python, Typescript,  C#
-  
-  but currently using Java   
+- 📖 Languages: Python, Typescript,  C#, PL/SQL, Java   
 
-Im new here thats why i will slowly fill the void() </h3>
 
 ## check out my newes project!
 https://github.com/Fabio-Calo/DataMatcher  
