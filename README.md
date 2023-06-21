@@ -2,9 +2,9 @@
 
 - 🧠 I’m interested in 🧑‍💻coding, 🎸music and 🍩3d designing
 
-- 📚 I’m currently learning Spring 
+- 📚 I’m currently learning Lua 
 
-- 📖 Languages: Python, Typescript,  C#, PL/SQL, Java   
+- 📖 Languages: Python, Typescript,  C#, PL/SQL, Java, Lua
 
 
 ## check out my newes project!
